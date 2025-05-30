@@ -19,7 +19,6 @@ public class Order {
     3. Notification (email)
 
     That's 3 responsibilities. Violates SRP.
-
      */
     public double calculateTotal() {
         return items.stream()
