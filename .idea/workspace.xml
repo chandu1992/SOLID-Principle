@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="84b0793b-38eb-41a3-a1b8-69d0c54330ff" name="Changes" comment="push solid princple code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SingleResponsibilityPrinciple/VoildateSRP/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SingleResponsibilityPrinciple/VoildateSRP/Order.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
