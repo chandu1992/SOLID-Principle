@@ -1,4 +1,4 @@
-package org.example.SingleResponsibilityPrinciple.VoildateSRP;
+package org.example.SingleResponsibilityPrinciple.ViolatesSRP;
 
 import org.example.SingleResponsibilityPrinciple.Item;
 
