@@ -1,0 +1,8 @@
+package org.example.SingleResponsibilityPrinciple.SRP;
+
+public class EmailService {
+    // Handle notifications
+    public void sendConfirmation(Order order) {
+        System.out.println("Sending confirmation email to " + order.getCustomerEmail());
+    }
+}
