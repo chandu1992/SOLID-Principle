@@ -4,11 +4,11 @@ import org.example.SingleResponsibilityPrinciple.Item;
 
 import java.util.List;
 
-public class Order {
+public class OrderService {
     private int orderId;
     private List<Item> items;
 
-    public Order(int orderId, List<Item> items) {
+    public OrderService(int orderId, List<Item> items) {
         this.orderId = orderId;
         this.items = items;
     }
