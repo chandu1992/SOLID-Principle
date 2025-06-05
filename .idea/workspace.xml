@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84b0793b-38eb-41a3-a1b8-69d0c54330ff" name="Changes" comment="push solid princple code" />
+    <list default="true" id="84b0793b-38eb-41a3-a1b8-69d0c54330ff" name="Changes" comment="push solid princple code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/OCP/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/OCP/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/OCP/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/OCP/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/ViolatesOCP/AreaCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/OpenClosePrinciple/ViolatesOCP/AreaCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -52,7 +62,7 @@
       <recent name="org.example.SingleResponsibilityPrinciple.SRP" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="SOLID-Principle" />
@@ -66,8 +76,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.OpenClosePrinciple.MainClass" />
+      <module name="SOLID-Principle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.OpenClosePrinciple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
