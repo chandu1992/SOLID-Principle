@@ -1,4 +1,4 @@
-package org.example.SingleResponsibilityPrinciple.ViolatesSRP;
+package org.example.SingleResponsibilityPrinciple.Bad;
 
 import org.example.SingleResponsibilityPrinciple.Item;
 

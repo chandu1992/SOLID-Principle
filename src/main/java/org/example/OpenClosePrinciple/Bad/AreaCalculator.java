@@ -1,7 +1,7 @@
-package org.example.OpenClosePrinciple.ViolatesOCP;
+package org.example.OpenClosePrinciple.Bad;
 
-import org.example.OpenClosePrinciple.OCP.Circle;
-import org.example.OpenClosePrinciple.OCP.Rectangle;
+import org.example.OpenClosePrinciple.good.Circle;
+import org.example.OpenClosePrinciple.good.Rectangle;
 
 public class AreaCalculator {
 

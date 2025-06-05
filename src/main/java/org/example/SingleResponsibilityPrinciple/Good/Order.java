@@ -1,4 +1,4 @@
-package org.example.SingleResponsibilityPrinciple.SRP;
+package org.example.SingleResponsibilityPrinciple.Good;
 
 import java.util.HashMap;
 import java.util.Map;

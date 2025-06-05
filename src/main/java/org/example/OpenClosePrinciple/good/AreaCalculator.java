@@ -1,4 +1,4 @@
-package org.example.OpenClosePrinciple.OCP;
+package org.example.OpenClosePrinciple.good;
 
 import org.example.OpenClosePrinciple.Shape;
 

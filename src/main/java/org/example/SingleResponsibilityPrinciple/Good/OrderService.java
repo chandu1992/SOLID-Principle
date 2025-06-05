@@ -1,4 +1,4 @@
-package org.example.SingleResponsibilityPrinciple.SRP;
+package org.example.SingleResponsibilityPrinciple.Good;
 
 public class OrderService {
     private OrderValidator validator = new OrderValidator();

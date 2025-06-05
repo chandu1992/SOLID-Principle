@@ -1,9 +1,9 @@
 package org.example.OpenClosePrinciple;
 
-import org.example.OpenClosePrinciple.OCP.AreaCalculator;
-import org.example.OpenClosePrinciple.OCP.Circle;
-import org.example.OpenClosePrinciple.OCP.Rectangle;
-import org.example.OpenClosePrinciple.OCP.Triangle;
+import org.example.OpenClosePrinciple.good.AreaCalculator;
+import org.example.OpenClosePrinciple.good.Circle;
+import org.example.OpenClosePrinciple.good.Rectangle;
+import org.example.OpenClosePrinciple.good.Triangle;
 
 public class MainClass {
     public static void main(String[] args) {
