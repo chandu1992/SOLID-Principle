@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84b0793b-38eb-41a3-a1b8-69d0c54330ff" name="Changes" comment="push solid princple code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/Bad/MySQLDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Good/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Good/CustomerAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/Good/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/BAD/UserOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Bad/UserOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/Good/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/Good/Database.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <recent name="org.example.SingleResponsibilityPrinciple.SRP" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MainClass">
+  <component name="RunManager" selected="Application.org.example.DependencyInversionPrinciple.Good.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="SOLID-Principle" />
@@ -86,8 +84,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.DependencyInversionPrinciple.Good.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.DependencyInversionPrinciple.Good.Main" />
+      <module name="SOLID-Principle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.DependencyInversionPrinciple.Good.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.DependencyInversionPrinciple.Good.Main" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="Application.Main" />
       </list>
