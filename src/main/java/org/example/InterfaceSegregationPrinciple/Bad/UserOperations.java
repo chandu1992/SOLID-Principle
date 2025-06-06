@@ -1,4 +1,4 @@
-package org.example.InterfaceSegregationPrinciple.BAD;
+package org.example.InterfaceSegregationPrinciple.Bad;
 
 interface UserOperations {
     void browseProducts();

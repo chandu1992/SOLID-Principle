@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84b0793b-38eb-41a3-a1b8-69d0c54330ff" name="Changes" comment="push solid princple code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LiskovSubstitutionPrinciple/Good/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DependencyInversionPrinciple/Bad/MySQLDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Good/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Good/CustomerAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/BAD/UserOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/InterfaceSegregationPrinciple/Bad/UserOperations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
