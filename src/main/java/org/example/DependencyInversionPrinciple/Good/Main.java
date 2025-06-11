@@ -5,6 +5,12 @@ public class Main {
         Database db = new MySQLDatabase(); // or use new MongoDatabase();
         OrderService service = new OrderService(db);
         service.placeOrder("iPhone");
+
+
+//        Database db = new MySQLDatabase(); // or use new MongoDatabase();
+//        OrderService service = new OrderService(db);
+//        service.placeOrder("iPhone");
+
     }
 }
 
